@@ -27,3 +27,5 @@ This project was originally part of EE288 taken by Dr. KLOGO at KNUST, Obuasi ca
 * Computer with internet access
 
 **Read the wiki on detailed step by step procedure to doing this project**
+
+This isnt relevant, and i am typing this on a feature branch while learning about branches in git
