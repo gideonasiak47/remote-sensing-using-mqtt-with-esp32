@@ -1,5 +1,6 @@
-# HISTORY
+# README
 
+## HISTORY
 This project was originally part of EE288 taken by Dr. KLOGO at KNUST, Obuasi campus. To practically teach us about electrical instrumentation and remote sensing, Dr. put together two amazing facilitators, Nero and Evans who performed the lab with us during which we covered;
 * Understand how digital and anologue sensors work
 * Understand ADC conversion in ESP32
@@ -14,4 +15,13 @@ This project was originally part of EE288 taken by Dr. KLOGO at KNUST, Obuasi ca
 * Build a real-time dashboard using python and Dash(plotly)
 * Plot live sensor data, update graphs dynamically
 
-## _Kindly note that the files in this project is the final for this lab, some of the individual lab activities were not added!_
+**_Kindly note that the files in this project is the final for this lab, some of the individual lab activities were not added!_**
+
+## EQUIPMENT AND SOFTWARE
+* ESP32 Microcontroller
+* Arduino IDE
+* MQTT Broker (Mosquitto)
+* Python with Flask
+* Plotly for visualisation
+* Sensors: DHT11/DHT22, Ultrasonic Sensor, LDR
+* Computer with internet access
