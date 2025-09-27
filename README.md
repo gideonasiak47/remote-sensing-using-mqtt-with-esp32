@@ -25,3 +25,5 @@ This project was originally part of EE288 taken by Dr. KLOGO at KNUST, Obuasi ca
 * Plotly for visualisation
 * Sensors: DHT11/DHT22, Ultrasonic Sensor, LDR
 * Computer with internet access
+
+**Read the wiki on detailed step by step procedure to doing this project**
