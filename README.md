@@ -13,8 +13,3 @@ This project was originally part of EE288 taken by Dr. KLOGO at KNUST, Obuasi ca
 * Recieve and store real time data on server
 * Build a real-time dashboard using python and Dash(plotly)
 * Plot live sensor data, update graphs dynamically
-
-
-## subheader
-
-Some added text
